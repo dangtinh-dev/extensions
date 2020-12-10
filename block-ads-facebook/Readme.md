@@ -78,7 +78,7 @@ window.onscroll //phát hiện ra hành động lăn chuột
 
 [![N|Solid](https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/85/22/5a/85225a73-b5aa-3002-0843-b23c05d1faf2/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.webp)](https://apps.apple.com/us/app/drumtify-music-for-life/id1530173879)
 
-## Drumtify - Music For Life - Ứng dụng xem/ nghe nhạc yotube khi tắt màn hình
+## Drumtify - Music For Life - Ứng dụng xem/ nghe nhạc youtube khi tắt màn hình
  - Link cài : [Drumtify - Music For Life](https://apps.apple.com/us/app/drumtify-music-for-life/id1530173879)
  - Cam kết không quảng cáo
 
