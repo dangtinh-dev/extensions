@@ -35,7 +35,7 @@ facebook_block_ads
      "matches": ["http://*.facebook.com/*"],
      "js": ["content.js"],
      "run_at": "document_end"
-   }
+   }],
   "manifest_version": 2
 }
 ```

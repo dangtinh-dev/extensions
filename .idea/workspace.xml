@@ -11,9 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9970dc2f-bbfa-4a89-a6d7-57c72b5c6b19" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/block-ads-facebook/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/block-ads-facebook/contents.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/block-ads-facebook/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +40,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/block-ads-facebook" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -58,7 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1607534671306</updated>
       <workItem from="1607534672412" duration="3711000" />
-      <workItem from="1607567795020" duration="498000" />
+      <workItem from="1607567795020" duration="829000" />
     </task>
     <servers />
   </component>
