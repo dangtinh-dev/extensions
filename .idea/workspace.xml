@@ -12,6 +12,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9970dc2f-bbfa-4a89-a6d7-57c72b5c6b19" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/block-ads-facebook/contents.js" beforeDir="false" afterPath="$PROJECT_DIR$/block-ads-facebook/contents.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +59,7 @@
       <updated>1607534671306</updated>
       <workItem from="1607534672412" duration="3711000" />
       <workItem from="1607567795020" duration="829000" />
+      <workItem from="1607607941165" duration="658000" />
     </task>
     <servers />
   </component>
