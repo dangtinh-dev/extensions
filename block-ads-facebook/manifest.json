@@ -1,0 +1,14 @@
+{
+  "name": "Getting Started Example",
+  "version": "1.0",
+  "description": "Build an Extension!",
+  "content_scripts":[
+    {
+      "matches": ["https://*.facebook.com/*"],
+      "js": ["contents.js"],
+
+      "run_at": "document_end"
+    }
+  ],
+  "manifest_version": 2
+}
