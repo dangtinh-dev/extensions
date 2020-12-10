@@ -9,7 +9,7 @@
 - tìm hiểu về extension [chrome_developers](https://developer.chrome.com/docs/extensions/mv2/getstarted/) - Làm quen với code
 - tạo 1 thư mục [facebook_block_ads]
 - tạo 1 file manifest.json trong thư mục
-- tạo 1 file contents.js trong thư mục
+- tạo 1 file content.js trong thư mục
 ```sh
 #cấu trúc thưc mục
 
@@ -32,7 +32,7 @@ facebook_block_ads
   "description": "Build an Extension!",
   "content_scripts": [
    {
-     "matches": ["http://*.facebook.com/*"],
+     "matches": ["https://*.facebook.com/*"],
      "js": ["content.js"],
      "run_at": "document_end"
    }],
